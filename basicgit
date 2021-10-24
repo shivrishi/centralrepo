@@ -3,5 +3,5 @@
 3. convert that directory to git repository - git init
 4. create file using any command - cat,vi/vim,nano,touch.
 5. check status of file - git status
-6. to add file in repo - git add
+6. to add file in repo - git add filename or git add.(for all file)
 7. For commit - git commit -m message
