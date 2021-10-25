@@ -5,3 +5,5 @@
 5. check status of file - git status
 6. to add file in repo - git add filename or git add.(for all file)
 7. For commit - git commit -m message
+8. To see log in one line - git log --oneline
+
