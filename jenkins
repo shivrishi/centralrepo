@@ -1,0 +1,10 @@
+Steps to Install Jenkins On Ubuntu Platform on cloud
+1. Log in to AWS management Console
+2. Choose ubuntu
+3. Launch ubuntu
+4. Update ubuntu -> sudo apt-get update
+5. Search for jdk -> sudo apt-cache search openjdk
+6. install java -> sudo apt-get install openjdk-8-jdk
+7. check java version -> java -version
+8. follow the steps to install jenkins form jenkins website
+9. copy the public ip from aws and suffix with 8080
